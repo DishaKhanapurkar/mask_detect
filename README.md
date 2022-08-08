@@ -5,15 +5,21 @@ Epochs are 20 and graphs of training and validation accuracy & loss are as follo
 
 The flow of project goes as :
 Data preprocessing
+
 Training
+
 Evaluation
+
 Accuracy Check
+
 Applying model in inbuilt camera
+
 Final Result
-![Screenshot (1527)](https://user-images.githubusercontent.com/86222578/183407597-e751b3eb-6397-4407-baf2-4c955468007f.png)
-![Screenshot (1528)](https://user-images.githubusercontent.com/86222578/183407622-6b90dcba-a53b-43e4-a951-332144b370a0.png)
-![Screenshot (1529)](https://user-images.githubusercontent.com/86222578/183407643-5225d949-e30a-4c69-a7db-c660060c3bf6.png)
-![Screenshot (1530)](https://user-images.githubusercontent.com/86222578/183407660-c1195b74-ee60-42fe-a403-f54a7ba97e16.png)
-![Screenshot (1531)](https://user-images.githubusercontent.com/86222578/183407672-103c9d9f-5841-4a41-a222-ae418119709e.png)
+
+![Screenshot (1533)](https://user-images.githubusercontent.com/86222578/183408024-a24bb8f3-d6c0-42e2-804b-b55497982e8f.png)
+![Screenshot (1532)](https://user-images.githubusercontent.com/86222578/183408075-00e16ac8-01ab-4635-8eba-d650cb174b83.png)
+![Screenshot (1527)](https://user-images.githubusercontent.com/86222578/183408107-a0a155a3-2a25-4aeb-a593-2c53819844a8.png)
+![Screenshot (1528)](https://user-images.githubusercontent.com/86222578/183408121-0227691e-f963-495d-8ea1-7465c68739e4.png)
+
 
 
