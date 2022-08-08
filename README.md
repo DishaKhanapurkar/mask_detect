@@ -1,5 +1,5 @@
 # mask_detect
-Built a face mask detecion model that uses Convolution Neural Network and Haarcascade classifier and gives an accuracy of 0.94
+Built a face mask detection model that uses Convolution Neural Network and Haarcascade classifier and gives an accuracy of 0.94
 The dataset for this is approx 4000 images containing with mask and without mask.
 Epochs are 20 and graphs of training and validation accuracy & loss are as follows
 
