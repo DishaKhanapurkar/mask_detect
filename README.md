@@ -4,6 +4,7 @@ The dataset for this is approx 4000 images containing with mask and without mask
 
 
 The flow of project goes as :
+
 Data preprocessing
 
 Training
